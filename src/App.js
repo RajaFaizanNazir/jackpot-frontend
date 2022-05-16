@@ -36,7 +36,7 @@ function App() {
         >
           Connect Wallet
         </button>
-        <h3>"Wallet Address: {walletAddress}</h3>
+        <h3>Wallet Address: "{walletAddress}"</h3>
       </header>
     </div>
   );
